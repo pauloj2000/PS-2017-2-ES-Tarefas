@@ -1,8 +1,10 @@
 # Sistema de Controle de Tarefas
-<br />
+## Sobre o projeto
+
 Projeto correspondente à proposta de Atividade Supervisionada do Semestre da disciplina de Projeto de Software, do curso de Engenharia de Software, do INF-UFG, ministrada pelo professor Rubens de Castro Pereira.
 <br />
 Os integrantes do grupo e participantes do projeto são:
+
 > Murillo S Nunes<br />
 > Murilo de Oliveira Silva<br />
 > Augusto B de Moura<br />
